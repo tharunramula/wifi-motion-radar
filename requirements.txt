@@ -1,0 +1,3 @@
+# Core demo needs only the Python standard library.
+# Optional: web dashboard (--web)
+flask>=3.0
